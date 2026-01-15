@@ -1,0 +1,4 @@
+# Este proyecto utiliza únicamente la biblioteca estándar de Python
+
+
+# Python >= 3.8
