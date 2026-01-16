@@ -41,7 +41,9 @@ proyecto/
 ├── main.py
 └── run_multiple_simulations.py
 
+```
 
 
-Resultados
+
+## Resultados
 El SmartAgent obtiene beneficios de forma consistente y finaliza siempre la simulación sin tarjetas en su poder, cumpliendo los requisitos planteados en la prueba.
