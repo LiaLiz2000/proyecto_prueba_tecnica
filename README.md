@@ -15,7 +15,7 @@ Simulación de un mercado económico donde 100 agentes con diferentes estrategia
 ### Instalación
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/simulacion-mercado.git
+git clone https://github.com/LiaLiz2000/proyecto_prueba_tecnica.git
 
 
 # Ejecutar simulación
